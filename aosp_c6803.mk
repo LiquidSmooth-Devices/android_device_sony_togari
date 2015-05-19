@@ -32,9 +32,8 @@ PRODUCT_COPY_FILES += \
     device/sony/togari/rootdir/system/etc/sensor_def_qcomdev.conf:system/etc/sensor_def_qcomdev.conf \
     device/sony/togari/rootdir/system/etc/sensors_calib.conf:system/etc/sensors_calib.conf
 
-PRODUCT_NAME := aosp_c6803
 PRODUCT_DEVICE := togari
-PRODUCT_MODEL := Xperia Z Ultra (AOSP)
+PRODUCT_MODEL := Xperia Z Ultra
 PRODUCT_BRAND := Sony
 PRODUCT_MANUFACTURER := Sony
 
